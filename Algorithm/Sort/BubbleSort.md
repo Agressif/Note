@@ -70,3 +70,9 @@ function bubbleSort3(arr) {
   return arr;
 }
 ```
+### 4.算法分析
+* 最佳情况 ： T(n) = O(n) <br>
+当输入的数据已经是正序时
+* 最差情况 ： T(n) = O(n2) <br>
+当输入的数据是反序时
+* 平均情况 ： T(n) = O(n2) <br>
