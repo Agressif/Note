@@ -1,4 +1,1 @@
 # Note
-
-# HTML&CSS
-# Javascript
